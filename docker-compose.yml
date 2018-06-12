@@ -1,0 +1,4 @@
+Sample-Pipeline-Docker-Jenkins-Ansible
+  build: .
+  ports:
+    - "80:80"
